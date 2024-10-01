@@ -1,0 +1,6 @@
+@IBIS_TPI_HostAddress = http://localhost:5105
+
+GET {{IBIS_TPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
